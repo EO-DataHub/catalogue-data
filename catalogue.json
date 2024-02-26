@@ -35,11 +35,6 @@
          "href":"/"
       },
       {
-         "rel":"data",
-         "type":"application/json",
-         "href":"collections"
-      },
-      {
          "rel":"child",
          "type":"application/json",
          "title":"supported",
