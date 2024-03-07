@@ -38,7 +38,7 @@
          "rel":"child",
          "type":"application/json",
          "title":"supported",
-         "href":"/supported/"
+         "href":"/supported/collection.json"
       }
    ],
    "stac_extensions":[
