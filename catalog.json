@@ -27,12 +27,12 @@
       {
          "rel":"self",
          "type":"application/json",
-         "href":"/"
+         "href":"/catalog.json"
       },
       {
          "rel":"root",
          "type":"application/json",
-         "href":"/"
+         "href":"/catalog.json"
       },
       {
          "rel":"child",
