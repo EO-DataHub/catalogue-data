@@ -26,7 +26,9 @@
    "links":[
     { "rel": "self", "href": "./catalog.json" },
      { "rel": "root", "href": "./catalog.json" },
-     { "rel": "child", "href": "./supported/collection.json" }
+     { "rel": "child", "href": "./supported/catalog.json" },
+     { "rel": "child", "href": "./element84-data/catalog.json" },
+     { "rel": "child", "href": "./ceda-data/catalog.json" }
    ],
    "stac_extensions":[
 
