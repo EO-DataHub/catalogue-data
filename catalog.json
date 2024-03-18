@@ -24,11 +24,10 @@
       "https://api.stacspec.org/v1.0.0/ogcapi-features"
    ],
    "links":[
-    { "rel": "self", "href": "./catalog.json" },
-     { "rel": "root", "href": "./catalog.json" },
-     { "rel": "child", "href": "./supported/catalog.json" },
-     { "rel": "child", "href": "./element84-data/catalog.json" },
-     { "rel": "child", "href": "./ceda-data/catalog.json" }
+    { "rel": "self", "href": "https://dev.eodatahub.org.uk/catalogue/catalog.json" },
+     { "rel": "root", "href": "https://dev.eodatahub.org.uk/catalogue/catalog.json" },
+     { "rel": "child", "href": "https://dev.eodatahub.org.uk/catalogue/supported/catalog.json" },
+     { "rel": "child", "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json" }
    ],
    "stac_extensions":[
 
