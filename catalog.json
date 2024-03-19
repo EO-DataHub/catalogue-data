@@ -28,7 +28,7 @@
      { "rel": "root", "href": "https://dev.eodatahub.org.uk/catalogue-data/catalog.json" },
      { "rel": "child", "href": "https://dev.eodatahub.org.uk/catalogue-data/supported/catalog.json" },
      { "rel": "child", "href": "https://dev.eodatahub.org.uk/catalogue-data/element84-data/catalog.json" },
-     { "rel": "child", "href": "https://dev.eodatahub.org.uk/catalogue-data/user-datasets/catalog.json" },
+     { "rel": "child", "href": "https://dev.eodatahub.org.uk/catalogue-data/user-datasets/catalog.json" }
    ],
    "stac_extensions":[
 
