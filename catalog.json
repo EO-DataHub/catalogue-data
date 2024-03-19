@@ -1,8 +1,8 @@
 {
    "type":"Catalog",
    "id":"stac-fastapi",
-   "title":"stac-fastapi",
-   "description":"stac-fastapi",
+   "title":"EODHP Catalogue",
+   "description":"A collection of EODHP catalogues",
    "stac_version":"1.0.0",
    "conformsTo":[
       "http://www.opengis.net/spec/ogcapi-features-3/1.0/conf/features-filter",
